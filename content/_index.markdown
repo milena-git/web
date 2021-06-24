@@ -34,6 +34,8 @@ Excellence for all? Heterogeneity in high-schools’ value-added, with Pauline G
 
 # Policy (French)
 
+[The French official statistics strategy: Combining signaling data from various mobile network operators for documenting COVID-19 crisis effects on population movements and economic outlook](https://www.cambridge.org/core/journals/data-and-policy/article/french-official-statistics-strategy-combining-signaling-data-from-various-mobile-network-operators-for-documenting-covid19-crisis-effects-on-population-movements-and-economic-outlook/DBE5680E9B48AD780F11495D7255E91C) Data & Policy 2021, avec Elise Coudin et Mathilde Poulhes
+
 [Empirical assessment of principles of access and scenarios with MNOs](https://ec.europa.eu/eurostat/cros/system/files/wpi_deliverable_i7_some_experimental_results_with_mobile_network_data_2021_01_31_final.pdf) 2021 avec Mathilde Poulhes et Benoît Loutrel
 
 [Retour partiel des mouvements de population avec le déconfinement](https://www.insee.fr/fr/statistiques/4635407#documentation) 2021, Insee Analyse n°54 avec Lino Galiana, François Sémécurbe, Élise Coudin, Marie-Pierre de Bellefon 
