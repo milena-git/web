@@ -15,14 +15,20 @@ A recent project on mobile phone data:
 A nice initiative from collegues: [UtilitR](https://www.book.utilitr.org/)
 
 # Publications
-**Disentangling the effects of air pollutants with many instruments**
-Journal of Environmental Economics and Management 2021, with Alexandre Godzinski  
+
+**[Disentangling the effects of air pollutants with many instruments](https://www.sciencedirect.com/science/article/pii/S0095069621000668)**
+Journal of Environmental Economics and Management 2021, with Alexandre Godzinski
+  
+**[What Makes a Good High School? Measuring School Effects beyond the Average](https://www.insee.fr/en/statistiques/6005388)** _Economics and Statistics n° 528-529 - 2021_ with Pauline Givord
 
 **Rigidités nominales et réelles des salaires en France: quel rôle des accords collectifs?** _Revue Française d'Economie, Volume 34, pp. 45-89 2019_, with Erwan Gautier and Sébastien Roux  
 
 **On social optimal routing under selfish response** _IEEE Transactions on Control of Network Systems, 2018_ with Walid Krichene and Alexandre Bayen  
 
+
 # Working Papers
+
+[Vaccine effectiveness and duration of protection against symptomatic and severe Covid-19 during the first year of vaccination in France](https://www.medrxiv.org/content/10.1101/2022.02.17.22270791v1), with Hamid Khaoua and Noémie Courtejoie
 
 Short-term health effects of public transport disruptions: air pollution and viral spread channels, with Alexandre Godzinski. Insee WP G2019/05
 
@@ -30,9 +36,10 @@ Do Minimum Wages Make Wages More Rigid? Some Evidence from French Micro Data, wi
 
 Product switching, market power and distance to core competency with Rémi Monin, Insee WP G2020/..
 
-Excellence for all? Heterogeneity in high-schools’ value-added, with Pauline Givord. Insee WP G2019/14
 
-# Policy
+# Policy 
+
+Estimation de l'efficacité vaccinale contre les formes graves de Covid-19,  _Dossier de la Drees 90_ with Hamid Khaoua and Noémie Courtejoie
 
 [The French official statistics strategy: Combining signaling data from various mobile network operators for documenting COVID-19 crisis effects on population movements and economic outlook](https://www.cambridge.org/core/journals/data-and-policy/article/french-official-statistics-strategy-combining-signaling-data-from-various-mobile-network-operators-for-documenting-covid19-crisis-effects-on-population-movements-and-economic-outlook/DBE5680E9B48AD780F11495D7255E91C) Data & Policy 2021, avec Elise Coudin et Mathilde Poulhes
 
