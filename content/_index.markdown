@@ -16,7 +16,7 @@ A nice initiative from collegues: [UtilitR](https://www.book.utilitr.org/)
 
 # Publications
 
-**[Vaccine-induced and naturally-acquired protection against Omicron and Delta symptomatic infection and severe COVID-19 outcomes, France, December 2021 to January 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.16.2200250)**  Euro Surveill. 2022;27(16). https://doi.org/10.2807/1560-7917.ES.2022.27.16.2200250
+**[Vaccine-induced and naturally-acquired protection against Omicron and Delta symptomatic infection and severe COVID-19 outcomes, France, December 2021 to January 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.16.2200250)**  Euro Surveill. 2022;27(16) with Hamid Khaoua and Noémie Courtejoie
 
 **[Disentangling the effects of air pollutants with many instruments](https://www.sciencedirect.com/science/article/pii/S0095069621000668)**
 Journal of Environmental Economics and Management 2021, with Alexandre Godzinski
