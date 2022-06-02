@@ -8,15 +8,15 @@ title: Home
 
 I am a Data Scientist at the innovation unit (SSP Lab) of Insee (French National Statistical Institute) and a PhD student in Environmental and Health Economics at PSE, affiliated to the CREST. My PhD focuses on exposure to environmental hazards with causal approaches, under the supervision of Laurent Gobillon.
 
-A recent project on mobile phone data:
-[Lockdown movement DataViz](https://inseefrlab.github.io/lockdown-maps-R/outflows_EN.html)
-[Github](https://github.com/InseeFrLab/lockdown-maps-R)
 
 A nice initiative from collegues: [UtilitR](https://www.book.utilitr.org/)
 
 # Publications
 
 **[Vaccine-induced and naturally-acquired protection against Omicron and Delta symptomatic infection and severe COVID-19 outcomes, France, December 2021 to January 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.16.2200250)**  Euro Surveill. 2022;27(16) with Hamid Khaoua and Noémie Courtejoie
+
+**[Vaccine effectiveness and duration of protection against symptomatic infections and severe Covid-19 outcomes in adults aged 50 years and over, France, January to mid-December 2021.](https://doi.org/10.1016/j.gloepi.2022.100076)** Global Epidemiology 2022, p.100076. with Hamid Khaoua and Noémie Courtejoie
+
 
 **[Disentangling the effects of air pollutants with many instruments](https://www.sciencedirect.com/science/article/pii/S0095069621000668)**
 Journal of Environmental Economics and Management 2021, with Alexandre Godzinski
@@ -30,7 +30,8 @@ Journal of Environmental Economics and Management 2021, with Alexandre Godzinski
 
 # Working Papers
 
-[Vaccine effectiveness and duration of protection against symptomatic and severe Covid-19 during the first year of vaccination in France](https://www.medrxiv.org/content/10.1101/2022.02.17.22270791v1), with Hamid Khaoua and Noémie Courtejoie
+[Fuzzy matching on big-data
+An illustration with scanner data and crowdsourced nutritional data](http://www.jms-insee.fr/2022/S28_2_ACTE_GALIANA_JMS2022.pdf), with Lino Galiana. JMS communications 2022
 
 Short-term health effects of public transport disruptions: air pollution and viral spread channels, with Alexandre Godzinski. Insee WP G2019/05
 
@@ -48,6 +49,9 @@ Estimation de l'efficacité vaccinale contre les formes graves de Covid-19,  _Do
 [Empirical assessment of principles of access and scenarios with MNOs](https://ec.europa.eu/eurostat/cros/system/files/wpi_deliverable_i7_some_experimental_results_with_mobile_network_data_2021_01_31_final.pdf) 2021 avec Mathilde Poulhes et Benoît Loutrel
 
 [Retour partiel des mouvements de population avec le déconfinement](https://www.insee.fr/fr/statistiques/4635407#documentation) 2021, Insee Analyse n°54 avec Lino Galiana, François Sémécurbe, Élise Coudin, Marie-Pierre de Bellefon 
+
+[Lockdown movement DataViz](https://inseefrlab.github.io/lockdown-maps-R/outflows_EN.html)
+[Github](https://github.com/InseeFrLab/lockdown-maps-R)
 
 Contribution au rapport d'évaluation du CICE. Documents de travail Insee G2018/03; G2018/11 and France Stratégie Reports, avec Rémi Monin
 
