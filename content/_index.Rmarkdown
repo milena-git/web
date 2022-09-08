@@ -6,14 +6,18 @@ title: Home
 
 # Milena Suarez Castillo
 
-I am a Data Scientist at the innovation unit (SSP Lab) of Insee (French National Statistical Institute) and a PhD student in Environmental and Health Economics at PSE, affiliated to the CREST. My PhD focuses on exposure to environmental hazards with causal approaches, under the supervision of Laurent Gobillon.
+I am a Data Scientist at the Lab Santé (Drees - Statistics for the French Ministry of Health) and a PhD student in Environmental and Health Economics at PSE, affiliated to the CREST. My PhD focuses on exposure to environmental hazards with causal approaches, under the supervision of Laurent Gobillon.
 
 
-A nice initiative from collegues: [UtilitR](https://www.book.utilitr.org/)
+Nice initiatives from collegues: [UtilitR](https://www.book.utilitr.org/); [Datalab - for the datascience public community](https://datalab.sspcloud.fr)
 
 # Publications
 
-**[How Do Wage Setting Institutions Affect Wage Rigidity? Evidence from French Micro Data](https://www.sciencedirect.com/science/article/pii/S0927537122001221)**, Labour Economics, 2022, with Erwan Gautier and Sébastien Roux
+**[Fuzzy matching on big-data: an illustration with scanner and crowd-sourced](https://doi.org/10.1145/3524458.3547244)**, with Lino Galiana. In Proceedings of the 2022 ACM Conference on Information Technology for Social Good (GoodIT '22). 
+
+**[How Do Wage Setting Institutions Affect Wage Rigidity? Evidence from French Micro Data](https://www.sciencedirect.com/science/article/pii/S0927537122001221)**, Labour Economics, 2022, with Erwan Gautier and Sébastien Roux, https://doi.org/10.1016/j.labeco.2022.102232.
+
+
 
 **[Vaccine-induced and naturally-acquired protection against Omicron and Delta symptomatic infection and severe COVID-19 outcomes, France, December 2021 to January 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.16.2200250)**  Euro Surveill. 2022;27(16) with Hamid Khaoua and Noémie Courtejoie
 
