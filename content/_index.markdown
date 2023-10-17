@@ -6,12 +6,16 @@ title: Home
 
 # Milena Suarez Castillo
 
-I am a Data Scientist at the Lab Santé (Drees - Statistics for the French Ministry of Health), affiliated to the CREST. My PhD focused on exposure to environmental hazards with causal approaches, under the supervision of Laurent Gobillon.
+I am a Data Scientist at the Lab Santé (Drees - Statistics for the French Ministry of Health), affiliated to the CREST. I defended my PhD (Paris School of Economics) in october 2023 in environmental and health economics, under the supervision of Laurent Gobillon.
+
+I am also Deputy Head of the Lab Santé - we recruit data scientists, statisticians and welcome interns: if you are interested in **health, data, datascience, statistics and/or econometrics** and fluent in French, please do not hesitate to contact me at milena.suarez-castillo at sante.gouv.fr. In particular if you have a PhD, check out the Postdoc offer with Inria [**Public health from large-scale electronic health records**](https://team.inria.fr/soda/job-offers/)
 
 
-Nice initiatives from colleagues: [UtilitR](https://www.book.utilitr.org/); [Datalab - for the datascience public community](https://datalab.sspcloud.fr)
+Check out some nice initiatives from colleagues: [UtilitR](https://www.book.utilitr.org/); [Datalab - for the datascience public community](https://datalab.sspcloud.fr)
 
 # Publications
+
+**[Temporally Consistent Present Population from Mobile Phone Signaling Data for Official Statistics]** with François Sémécurbe, Cezary Ziemlicki, Tom Seimandi and Haixuan Xavier Tao, forthcoming in Journal of Official Statistics in 2023. 
 
 **[Fuzzy matching on big-data: an illustration with scanner and crowd-sourced](https://doi.org/10.1145/3524458.3547244)**, with Lino Galiana. In Proceedings of the 2022 ACM Conference on Information Technology for Social Good (GoodIT '22). 
 
