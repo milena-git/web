@@ -6,17 +6,16 @@ title: Home
 
 # Milena Suarez Castillo
 
-I am a Data Scientist at the Lab Santé (Drees - Statistics for the French Ministry of Health) and a PhD student in Environmental and Health Economics at PSE, affiliated to the CREST. My PhD focuses on exposure to environmental hazards with causal approaches, under the supervision of Laurent Gobillon.
+I am a Data Scientist at the Lab Santé (Drees - Statistics for the French Ministry of Health), affiliated to the CREST. My PhD focused on exposure to environmental hazards with causal approaches, under the supervision of Laurent Gobillon.
 
 
-Nice initiatives from collegues: [UtilitR](https://www.book.utilitr.org/); [Datalab - for the datascience public community](https://datalab.sspcloud.fr)
+Nice initiatives from colleagues: [UtilitR](https://www.book.utilitr.org/); [Datalab - for the datascience public community](https://datalab.sspcloud.fr)
 
 # Publications
 
 **[Fuzzy matching on big-data: an illustration with scanner and crowd-sourced](https://doi.org/10.1145/3524458.3547244)**, with Lino Galiana. In Proceedings of the 2022 ACM Conference on Information Technology for Social Good (GoodIT '22). 
 
 **[How Do Wage Setting Institutions Affect Wage Rigidity? Evidence from French Micro Data](https://www.sciencedirect.com/science/article/pii/S0927537122001221)**, Labour Economics, 2022, with Erwan Gautier and Sébastien Roux, https://doi.org/10.1016/j.labeco.2022.102232.
-
 
 
 **[Vaccine-induced and naturally-acquired protection against Omicron and Delta symptomatic infection and severe COVID-19 outcomes, France, December 2021 to January 2022](https://www.eurosurveillance.org/content/10.2807/1560-7917.ES.2022.27.16.2200250)**  Euro Surveill. 2022;27(16) with Hamid Khaoua and Noémie Courtejoie
@@ -26,6 +25,9 @@ Nice initiatives from collegues: [UtilitR](https://www.book.utilitr.org/); [Data
 
 **[Disentangling the effects of air pollutants with many instruments](https://www.sciencedirect.com/science/article/pii/S0095069621000668)**
 Journal of Environmental Economics and Management 2021, with Alexandre Godzinski
+
+**[The French official statistics strategy: Combining signaling data from various mobile network operators for documenting COVID-19 crisis effects on population movements and economic outlook](https://www.cambridge.org/core/journals/data-and-policy/article/french-official-statistics-strategy-combining-signaling-data-from-various-mobile-network-operators-for-documenting-covid19-crisis-effects-on-population-movements-and-economic-outlook/DBE5680E9B48AD780F11495D7255E91C)** Data & Policy 2021, avec Elise Coudin et Mathilde Poulhes
+
   
 **[What Makes a Good High School? Measuring School Effects beyond the Average](https://www.insee.fr/en/statistiques/6005388)** _Economics and Statistics n° 528-529 - 2021_ with Pauline Givord
 
@@ -47,8 +49,6 @@ Product switching, market power and distance to core competency with Rémi Monin
 # Policy 
 
 Estimation de l'efficacité vaccinale contre les formes graves de Covid-19,  _Dossier de la Drees 90_ with Hamid Khaoua and Noémie Courtejoie
-
-[The French official statistics strategy: Combining signaling data from various mobile network operators for documenting COVID-19 crisis effects on population movements and economic outlook](https://www.cambridge.org/core/journals/data-and-policy/article/french-official-statistics-strategy-combining-signaling-data-from-various-mobile-network-operators-for-documenting-covid19-crisis-effects-on-population-movements-and-economic-outlook/DBE5680E9B48AD780F11495D7255E91C) Data & Policy 2021, avec Elise Coudin et Mathilde Poulhes
 
 [Empirical assessment of principles of access and scenarios with MNOs](https://ec.europa.eu/eurostat/cros/system/files/wpi_deliverable_i7_some_experimental_results_with_mobile_network_data_2021_01_31_final.pdf) 2021 avec Mathilde Poulhes et Benoît Loutrel
 
