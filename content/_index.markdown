@@ -2,13 +2,15 @@
 title: Home
 ---
 
-[<img src="image/picx.jpg" style="max-width:30%;min-width:100px;float:right;" alt="Github repo" />](https://github.com/milena-git)
+[<img src="image/picx2.jpg" style="max-width:30%;min-width:100px;float:right;" alt="Github repo" />](https://github.com/milena-git)
 
 # Milena Suarez Castillo
 
 I am a Data Scientist at the Lab Santé (Drees - Statistics for the French Ministry of Health), affiliated to the CREST. I defended my PhD (Paris School of Economics) in october 2023 in environmental and health economics, under the supervision of Laurent Gobillon.
 
-I am also Deputy Head of the Lab Santé - we recruit data scientists, statisticians and welcome interns: if you are interested in **health, data, datascience, statistics and/or econometrics** and fluent in French, please do not hesitate to contact me at milena.suarez-castillo at sante.gouv.fr. In particular if you have a PhD, check out the Postdoc offer with Inria [**Public health from large-scale electronic health records**](https://team.inria.fr/soda/job-offers/)
+I am also Deputy Head of the Lab Santé - we recruit data scientists, statisticians and welcome interns: if you are interested in **health, data, datascience, statistics and/or econometrics** and fluent in French, please do not hesitate to contact me at milena.suarez-castillo at sante.gouv.fr
+
+In particular if you have a PhD, check out the Postdoc offer with Inria [**Public health from large-scale electronic health records**](https://team.inria.fr/soda/job-offers/)
 
 
 Check out some nice initiatives from colleagues: [UtilitR](https://www.book.utilitr.org/); [Datalab - for the datascience public community](https://datalab.sspcloud.fr)
