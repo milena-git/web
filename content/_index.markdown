@@ -6,7 +6,7 @@ title: Home
 
 # Milena Suarez Castillo
 
-I am a Data Scientist at the Lab Santé (Drees - Statistics for the French Ministry of Health), affiliated to the CREST. I defended my PhD (Paris School of Economics) in october 2023 in environmental and health economics, under the supervision of Laurent Gobillon.
+I am a Data Scientist at the Lab Santé (Drees - Statistics for the French Ministry of Health), affiliated to the CREST. I defended my PhD (Paris School of Economics) in october 2023 in environmental and health economics, under the supervision of Laurent Gobillon ([Manuscrit available here](https://www.theses.fr/s273684)).
 
 I am also Deputy Head of the Lab Santé - we recruit data scientists, statisticians and welcome interns: if you are interested in **health, data, datascience, statistics and/or econometrics** and fluent in French, please do not hesitate to contact me at milena.suarez-castillo at sante.gouv.fr
 
@@ -17,7 +17,11 @@ Check out some nice initiatives from colleagues: [UtilitR](https://www.book.util
 
 # Publications
 
-**[Temporally Consistent Present Population from Mobile Phone Signaling Data for Official Statistics]** with François Sémécurbe, Cezary Ziemlicki, Tom Seimandi and Haixuan Xavier Tao, forthcoming in Journal of Official Statistics in 2023. 
+**[Temporally Consistent Present Population from Mobile Phone Signaling Data for Official Statistics](https://sciendo.com/article/10.2478/jos-2023-0025)** with François Sémécurbe, Cezary Ziemlicki, Tom Seimandi and Haixuan Xavier Tao, Journal of Official Statistics, vol.39, no.4, 2023, pp.535-570. https://doi.org/10.2478/jos-2023-0025
+
+Une journée à Paris: 
+
+![](https://github.com/InseeFrLab/presentpop/blob/282ac643d50b80275e3b8974768e40d04899236c/gifs/paris_day_densities.gif?raw=true)
 
 **[Fuzzy matching on big-data: an illustration with scanner and crowd-sourced](https://doi.org/10.1145/3524458.3547244)**, with Lino Galiana. In Proceedings of the 2022 ACM Conference on Information Technology for Social Good (GoodIT '22). 
 
