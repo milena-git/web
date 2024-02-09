@@ -70,7 +70,9 @@ Press/Policy coverage : [Franceinfo](https://www.francetvinfo.fr/economie/automo
 
 **Air Pollution and Children Health Inequalities** [2024 - v1 on medrxiv](https://www.medrxiv.org/content/10.1101/2024.02.07.24302381v1), with David Benatia, Christine Le Thi and Vianney Costemalle
 
-**Air Pollution, Viral Spread and Health Outcomes: Evidence from strikes in France** [Working Paper Insee G2019/05](https://www.insee.fr/en/statistiques/4159895). _An updated version is available in my manuscript thesis._ 
+**Air Pollution, Viral Spread and Health Outcomes: Evidence from strikes in France** [Working Paper Insee G2019/05](https://www.insee.fr/en/statistiques/4159895), with Alexandre Godzinski
+
+
 
 # Policy 
 
