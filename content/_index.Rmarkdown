@@ -12,18 +12,18 @@ I am also Deputy Head of the Lab Santé - we recruit data scientists, statistici
 
 Check out some nice initiatives from colleagues: [UtilitR](https://www.book.utilitr.org/); [Datalab - for the datascience public community](https://datalab.sspcloud.fr)
 
-# Working papers
+# Publications
 
-### **[Air Pollution and Children Health Inequalities](https://www.insee.fr/en/statistiques/8200420)** [WP Insee 2024](https://www.insee.fr/en/statistiques/8200420) [WP medrxiv 2024](https://www.medrxiv.org/content/10.1101/2024.02.07.24302381v1), with David Benatia, Christine Le Thi and Vianney Costemalle
+### **[Air Pollution and Children Health Inequalities](https://www.sciencedirect.com/science/article/pii/S0095069625000336)**, Journal of Environmental Economics and Management, 2025, with David Benatia and Christine Le Thi
+
+[WP Insee 2024](https://www.insee.fr/en/statistiques/8200420) [WP medrxiv 2024](https://www.medrxiv.org/content/10.1101/2024.02.07.24302381v1)
 
 Press/Policy coverage : _Plus exposés à la pollution de l’air, les jeunes enfants des ménages modestes, plus fragiles, sont les plus affectés._  [Etudes et Résultats de la Drees](https://drees.solidarites-sante.gouv.fr/publications-communique-de-presse/etudes-et-resultats/plus-exposes-la-pollution-de-lair-les-jeunes)- [Libération](https://www.liberation.fr/societe/sante/les-enfants-les-plus-modestes-sont-les-plus-affectes-par-la-pollution-de-lair-selon-le-ministere-de-la-sante-20240105_ANIRBFQZBBFOHIIKJJLHF2Y35Q/), [Le Figaro](https://sante.lefigaro.fr/les-enfants-des-familles-modestes-sont-plus-affectes-par-la-pollution-atmospherique-20240104), [Les Echos](https://www.lesechos.fr/politique-societe/societe/les-enfants-de-familles-modestes-sont-les-plus-affectes-par-la-pollution-de-lair-2044333), [La Croix](https://www.la-croix.com/sante/pollution-de-l-air-les-jeunes-enfants-de-menages-modestes-sont-les-plus-affectes-20240104), [Médiapart](https://www.mediapart.fr/journal/france/050124/pollution-de-l-air-la-double-peine-pour-les-enfants-de-familles-pauvres), [Le Parisien](https://www.leparisien.fr/futurs/pollution-de-lair-les-enfants-les-plus-pauvres-et-les-plus-aises-sont-les-plus-exposes-selon-une-etude-04-01-2024-UFDPLZN2YJHN3BYAOJLMZKHIYM.php), [l'Humanité](https://www.humanite.fr/environnement/environnement/enfance-quand-la-pollution-de-lair-creuse-les-inegalites), [TF1](https://www.tf1info.fr/sante/pollution-de-l-air-particules-fines-les-enfants-issus-de-milieux-modestes-davantage-touches-par-les-complications-respiratoires-2281578.html), [Sud Ouest](https://www.sudouest.fr/environnement/pollution/les-enfants-les-plus-modestes-seraient-aussi-les-plus-impactes-par-la-pollution-de-l-air-selon-une-nouvelle-etude-18011838.php) [Radio Aviva](https://radio-aviva.com/podcast/etude-de-la-drees-enfants-et-pollution-de-lair-milena-suarez-castillo-adjointe-autrice-de-letude/), [La Marseillese](https://www.lamarseillaise.fr/environnement/le-fort-impact-de-la-pollution-sur-les-plus-precaires-PH15302728)
 
 [Code: git.drees.fr/drees_code_public/etudes/er1292](https://git.drees.fr/drees_code_public/etudes/er1292)
 
-# Publications
 
-
-### **[Air pollution, viral spread and health outcomes evidence from strikes in France.](https://doi.org/10.1002/hec.4884)**, Health Economics, 2024, 1–43, https://doi.org/10.1002/hec.4884  
+### **[Air pollution, viral spread and health outcomes evidence from strikes in France.](https://doi.org/10.1002/hec.4884)**, with Alexandre Godzinski, Health Economics, 2024, 1–43, https://doi.org/10.1002/hec.4884  
 
 
 Press/Policy coverage : _La pollution de l’air due au trafic automobile augmente les admissions aux urgences pour maladies respiratoires._ [Insee Analyses](https://www.insee.fr/fr/statistiques/4160040) -  [Franceinfo](https://www.francetvinfo.fr/economie/automobile/diesel/la-pollution-de-l-air-due-au-trafic-automobile-affecte-directement-la-sante-respiratoire-des-habitants-des-villes_3462981.html), [Les Echos](https://www.lesechos.fr/industrie-services/energie-environnement/les-greves-dans-les-transports-ont-un-impact-negatif-sur-la-sante-des-urbains-1024460), [Sud Ouest](https://www.sudouest.fr/sport/formule1/pollution-de-l-air-le-trafic-automobile-provoque-une-hausse-des-troubles-respiratoires-2591383.php), [Alternatives Economiques](https://www.alternatives-economiques.fr/pollution-de-lair-aux-urgences/00089592), [BFM TV](https://www.bfmtv.com/sante/pollution-de-l-air-des-pics-de-frequentation-aux-urgences-les-jours-de-greve-des-transports_AN-201905270124.html),
